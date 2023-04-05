@@ -1,0 +1,25 @@
+﻿Build started 2/12/2020 9:46:49 μμ.
+     1>Project "C:\Users\makrk\OneDrive\Υπολογιστής\5o\ask3-2\ask3-2\ask3-2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ask3-2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ask3-2.vcxproj -> C:\Users\makrk\OneDrive\Υπολογιστής\5o\ask3-2\Debug\ask3-2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ask3-2.unsuccessfulbuild".
+         Touching "Debug\ask3-2.lastbuildstate".
+     1>Done Building Project "C:\Users\makrk\OneDrive\Υπολογιστής\5o\ask3-2\ask3-2\ask3-2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.19
